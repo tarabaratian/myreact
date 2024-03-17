@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  font-size: 20px;
+}
+.description {
+  font-size: 15px;
+}
+.price {
+  font-size: 13px;
+}
+.border {
+  border-left: 10px solid darkgray;
+}
+.link {
+  color: #6c757d;
+}
+.link:hover {
+  color: white;
+}

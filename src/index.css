@@ -1,13 +1,9 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./Components/app/App.css);
+@import url(./Components/pages/Header/Header.css);
+@import url(./Components/pages/Prodects/Allroducts.css);
+@import url(./Components/pages/Main/Main.css);
+@import url(./Components/pages/Footer/Footer.css);
+@import url(./Components/pages/More/More.css);
+@import url(./Components/pages/Callus/Callus.css);
+@import url(./Components/pages/Prodects/Products.css);
+@import url(./Components/pages/More/Showmore.css);

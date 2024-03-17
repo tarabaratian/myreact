@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+div.pr {
+  padding-top: 10px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.back {
+  background-color: #a9a9a9;
+}
+.light {
+  color: white;
+}
+.light:hover {
+  color:#3B3B3B;
+}
+div.listing{
+  background-image: url(./media/home-decor-ideas-for-living-room.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
