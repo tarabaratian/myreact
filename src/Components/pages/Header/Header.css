@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.freya {
+  background-color: white;
+  border-radius: 20px 15px 0 20px;
+  font-size: 12px;
+}
+.menu {
+  background-color: darkgray;
+  text-align: center;
+  text-align: right;
+  position: fixed;
+  z-index: 99;
+}
+

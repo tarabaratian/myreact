@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.circlepro1{
+    height: 250px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-image: url(./media/miz.jpg);
+    margin-right: 50px;
+}
+div.circlepro1>a{
+    margin: 0px auto;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+}
+.circlepro2{
+    height: 250px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-image: url(./media/moble.jpg);
+    margin-right: 50px;
+}
+.circlepro2>a{
+    margin: 0px auto;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+}
+.circlepro3{
+    height: 250px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-image: url(./media/sandali.jpg);
+    margin-right: 50px;
+}
+.circlepro3>a{
+    margin: 0px auto;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+}
+.circlepro4{
+    height: 250px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-image: url(./media/bed.jpg);
+    margin-right: 50px;
+}
+.circlepro4>a{
+    margin: 0px auto;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+}
+.circlepro5{
+    height: 250px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-image: url(./media/parche.jpg);
+    margin-right: 0px;
+}
+.circlepro5>a{
+    margin: 0px auto;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+}

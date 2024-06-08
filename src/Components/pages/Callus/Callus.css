@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.content {
+  background-image: url(./media/light-sheers-for-your-home-decor.jpg);
+  background-color: black;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+div.elements{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 300px;
+}
+div.elements>div.textcall{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 300px;
+    margin-top: 20px;
+    color: white;
+}
+div.elements>div.formcall{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #cabdae;
+    height: 570px;
+    border-radius: 10px;
+}
+div.info{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 7px;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+div.info>div.infos{
+    height: 100px;
+}
