@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myreact/static/css/main.1f8d49ed.css",
+    "main.js": "/myreact/static/js/main.bdd85d6b.js",
+    "static/media/banner_1.png": "/myreact/static/media/banner_1.f758a2b71d7a3f20a78a.png",
+    "static/media/banner_4.png": "/myreact/static/media/banner_4.ad1725990eb22664e4ad.png",
+    "static/media/banner_2.png": "/myreact/static/media/banner_2.37e99c090215ebbcb8be.png",
+    "static/media/img_9.jpg": "/myreact/static/media/img_9.e25682241588b0c01585.jpg",
+    "static/media/home-decor-ideas-for-living-room.jpg": "/myreact/static/media/home-decor-ideas-for-living-room.453450c29f07584b098f.jpg",
+    "static/media/miz.jpg": "/myreact/static/media/miz.90db3236fdda2dc84fdd.jpg",
+    "static/media/moble.jpg": "/myreact/static/media/moble.b2cf800838f3d65e5e7c.jpg",
+    "static/media/light-sheers-for-your-home-decor.jpg": "/myreact/static/media/light-sheers-for-your-home-decor.60cb89292db88e2b69f5.jpg",
+    "static/media/bed.jpg": "/myreact/static/media/bed.78239bafb23aff86d54c.jpg",
+    "static/media/img_7.jpg": "/myreact/static/media/img_7.c0b14307bedd7998be37.jpg",
+    "static/media/sandali.jpg": "/myreact/static/media/sandali.e7acfc15e945a10964e6.jpg",
+    "static/media/parche.jpg": "/myreact/static/media/parche.c74fa1272551f2afc4b0.jpg",
+    "static/media/img_8.jpg": "/myreact/static/media/img_8.584e0e146629f36252a3.jpg",
+    "static/media/Wood Saws Logo Vintage, Illustration of Chainsaw Vector, Design of The Saw Concept Wooden_prev_ui.png": "/myreact/static/media/Wood Saws Logo Vintage, Illustration of Chainsaw Vector, Design of The Saw Concept Wooden_prev_ui.af5db80e9ed8ac232748.png",
+    "index.html": "/myreact/index.html",
+    "main.1f8d49ed.css.map": "/myreact/static/css/main.1f8d49ed.css.map",
+    "main.bdd85d6b.js.map": "/myreact/static/js/main.bdd85d6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8d49ed.css",
+    "static/js/main.bdd85d6b.js"
+  ]
+}
